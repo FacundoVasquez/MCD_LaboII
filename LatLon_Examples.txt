@@ -1,0 +1,12 @@
+Rosario:
+
+Ejemplo A
+Pto 1 | -32.843523, -60.810991
+Pto 2 | -33.057291, -60.572725
+
+Buenos Aires
+
+EjemploA
+Pto 1 | -34.687056, -58.270306
+Pto 2 | -34.537684, -58.528547
+Con divisiones de 100, se obtuvieron 49845 items
